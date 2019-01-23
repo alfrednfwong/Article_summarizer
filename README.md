@@ -1,4 +1,4 @@
-﻿# scrape_the_onion
+﻿# Article summarizer and web scraping
 
 An project on natural language processing at Xccelerate HK. The task is to summarize a news article in four sentences.
 
